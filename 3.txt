@@ -7,3 +7,6 @@ local computer. A branch is the creation of a different path on your local compu
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -Because in that way you have access to what you were working before.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-MAybe sending the files via emial, i don't see anything easier by doing it that way.
